@@ -17,14 +17,28 @@ Gem::Specification.new do |s|
     "README.rdoc"
   ]
   s.files = [
-    ".document",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
     "VERSION",
     "lib/ruby_deezer.rb",
-    "test/helper.rb"
+    "lib/ruby_deezer/album.rb",
+    "lib/ruby_deezer/artist.rb",
+    "lib/ruby_deezer/track.rb",
+    "pkg/ruby_deezer-0.1.0.gem",
+    "ruby_deezer.gemspec",
+    "test/fixtures/album.json",
+    "test/fixtures/albums.json",
+    "test/fixtures/artist.json",
+    "test/fixtures/artists.json",
+    "test/fixtures/track.json",
+    "test/fixtures/tracks.json",
+    "test/helper.rb",
+    "test/unit/test_album.rb",
+    "test/unit/test_artist.rb",
+    "test/unit/test_track.rb"
   ]
   s.homepage = %q{http://github.com/egze/ruby_deezer}
   s.licenses = ["MIT"]
