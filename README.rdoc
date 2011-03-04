@@ -1,0 +1,18 @@
+= RubyDeezer
+
+RubyDeezer is a ruby wrapper for the Deezer APIs ( http://www.deezer.com/en/#developers/simpleapi/ ). 
+
+== Installation
+
+  gem install ruby_deezer
+
+== Usage
+
+  RubyDeezer::Artist.find(13)
+  RubyDeezer::Artist.search("eminem", {:per_page => 10, :page => 1}) # options can be skipped, default is 10 per page
+  
+  RubyDeezer::Album.find(13)
+  RubyDeezer::Album.search("eminem", {:per_page => 10, :page => 1}) # options can be skipped, default is 10 per page
+  
+  RubyDeezer::Track.find(13)
+  RubyDeezer::Track.search("eminem", {:per_page => 10, :page => 1}) # options can be skipped, default is 10 per page

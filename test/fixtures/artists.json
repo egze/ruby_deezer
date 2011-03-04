@@ -1,0 +1,23 @@
+{
+   "search":{
+      "total_results":29,
+      "start_index":10,
+      "items_per_page":2,
+      "artists":{
+         "artist":[
+            {
+               "id":"521459",
+               "name":"50 Cent, Dr. Dre, Eminem",
+               "url":"http:\/\/www.deezer.com\/en\/music\/50-cent-dr-dre-eminem",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/artist\/\/90x90-000000-80-0-0.jpg"
+            },
+            {
+               "id":"819679",
+               "name":"Bobby Creekwater, Eminem, Obie Trice, Nate Dogg",
+               "url":"http:\/\/www.deezer.com\/en\/music\/bobby-creekwater-eminem-obie-trice-nate-dogg",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/artist\/\/90x90-000000-80-0-0.jpg"
+            }
+         ]
+      }
+   }
+}

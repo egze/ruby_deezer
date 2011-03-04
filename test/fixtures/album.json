@@ -1,0 +1,20 @@
+{
+   "album":{
+      "artist":{
+         "id":"60",
+         "name":"Don Choa",
+         "url":"http:\/\/www.deezer.com\/en\/music\/don-choa",
+         "image":"http:\/\/cdn-images.deezer.com\/images\/artist\/0906ddc614e0988ab91f37666b3391b7\/90x90-000000-80-0-0.jpg"
+      },
+      "id":"64",
+      "name":"Vapeurs Toxiques",
+      "url":"http:\/\/www.deezer.com\/en\/music\/don-choa\/vapeurs-toxiques-64",
+      "image":"http:\/\/cdn-images.deezer.com\/images\/cover\/162922e3732a312053f14bb47480ce84\/150x150-000000-80-0-0.jpg",
+      "nb_tracks":"0",
+      "nb_disks":"1",
+      "year":"2010",
+      "tracks":{
+
+      }
+   }
+}

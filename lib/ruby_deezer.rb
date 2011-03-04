@@ -1,0 +1,7 @@
+require 'rubygems'
+require 'httparty'
+gem 'will_paginate'
+require 'will_paginate'
+require 'lib/ruby_deezer/artist'
+require 'lib/ruby_deezer/album'
+require 'lib/ruby_deezer/track'

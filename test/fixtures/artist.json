@@ -1,0 +1,1774 @@
+{
+   "artist":{
+      "id":"13",
+      "name":"Eminem",
+      "url":"http:\/\/www.deezer.com\/en\/music\/eminem",
+      "image":"http:\/\/cdn-images.deezer.com\/images\/artist\/cb286a88a55a10847d1ac0f47798380c\/90x90-000000-80-0-0.jpg",
+      "similar_artists":{
+         "artist":[
+            {
+               "id":"66",
+               "name":"50 Cent",
+               "url":"http:\/\/www.deezer.com\/en\/music\/50-cent",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/artist\/b4eb143a03f4997173e9142868ef0732\/90x90-000000-80-0-0.jpg"
+            },
+            {
+               "id":"397",
+               "name":"Obie Trice",
+               "url":"http:\/\/www.deezer.com\/en\/music\/obie-trice",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/artist\/c0132ff5affcb34442b9508bd6484a48\/90x90-000000-80-0-0.jpg"
+            },
+            {
+               "id":"192469",
+               "name":"Stat Quo",
+               "url":"http:\/\/www.deezer.com\/en\/music\/stat-quo",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/artist\/\/90x90-000000-80-0-0.jpg"
+            },
+            {
+               "id":"12040",
+               "name":"Benzino",
+               "url":"http:\/\/www.deezer.com\/en\/music\/benzino",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/artist\/\/90x90-000000-80-0-0.jpg"
+            },
+            {
+               "id":"763",
+               "name":"Dr. Dre",
+               "url":"http:\/\/www.deezer.com\/en\/music\/dr-dre",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/artist\/79dc79e7b5dd8e271123d74b469ccda6\/90x90-000000-80-0-0.jpg"
+            },
+            {
+               "id":"4986",
+               "name":"Proof",
+               "url":"http:\/\/www.deezer.com\/en\/music\/proof",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/artist\/\/90x90-000000-80-0-0.jpg"
+            },
+            {
+               "id":"167095",
+               "name":"2Pac",
+               "url":"http:\/\/www.deezer.com\/en\/music\/2pac",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/artist\/\/90x90-000000-80-0-0.jpg"
+            },
+            {
+               "id":"81178",
+               "name":"Cashis",
+               "url":"http:\/\/www.deezer.com\/en\/music\/cashis",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/artist\/\/90x90-000000-80-0-0.jpg"
+            },
+            {
+               "id":"7341",
+               "name":"Bizarre",
+               "url":"http:\/\/www.deezer.com\/en\/music\/bizarre",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/artist\/\/90x90-000000-80-0-0.jpg"
+            },
+            {
+               "id":"2541",
+               "name":"Xzibit",
+               "url":"http:\/\/www.deezer.com\/en\/music\/xzibit",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/artist\/767336aba7c8bf705965a78238694dd0\/90x90-000000-80-0-0.jpg"
+            }
+         ]
+      },
+      "discography":{
+         "album":[
+            {
+               "id":"629477",
+               "name":"Recovery (2010)",
+               "url":"http:\/\/www.deezer.com\/en\/music\/eminem\/recovery-2010-629477",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/cover\/a8cedd6a97951ffae2d57fc539bef189\/150x150-000000-80-0-0.jpg",
+               "nb_tracks":"17",
+               "nb_disks":"1",
+               "year":"2010",
+               "tracks":{
+                  "track":[
+                     {
+                        "id":"6816834",
+                        "name":"Cold Wind Blows",
+                        "url":"http:\/\/www.deezer.com\/listen-6816834",
+                        "duration":"303",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816835",
+                        "name":"Talkin\u2019 2 Myself",
+                        "url":"http:\/\/www.deezer.com\/listen-6816835",
+                        "duration":"300",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816836",
+                        "name":"On Fire",
+                        "url":"http:\/\/www.deezer.com\/listen-6816836",
+                        "duration":"213",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816837",
+                        "name":"Won't Back Down",
+                        "url":"http:\/\/www.deezer.com\/listen-6816837",
+                        "duration":"265",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816838",
+                        "name":"W.T.P.",
+                        "url":"http:\/\/www.deezer.com\/listen-6816838",
+                        "duration":"238",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816839",
+                        "name":"Going Through Changes",
+                        "url":"http:\/\/www.deezer.com\/listen-6816839",
+                        "duration":"298",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816840",
+                        "name":"Not Afraid",
+                        "url":"http:\/\/www.deezer.com\/listen-6816840",
+                        "duration":"248",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816841",
+                        "name":"Seduction",
+                        "url":"http:\/\/www.deezer.com\/listen-6816841",
+                        "duration":"275",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816842",
+                        "name":"No Love",
+                        "url":"http:\/\/www.deezer.com\/listen-6816842",
+                        "duration":"299",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816843",
+                        "name":"Space Bound",
+                        "url":"http:\/\/www.deezer.com\/listen-6816843",
+                        "duration":"278",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816844",
+                        "name":"Cinderella Man",
+                        "url":"http:\/\/www.deezer.com\/listen-6816844",
+                        "duration":"279",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816845",
+                        "name":"25 To Life",
+                        "url":"http:\/\/www.deezer.com\/listen-6816845",
+                        "duration":"241",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816846",
+                        "name":"So Bad",
+                        "url":"http:\/\/www.deezer.com\/listen-6816846",
+                        "duration":"325",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816847",
+                        "name":"Almost Famous",
+                        "url":"http:\/\/www.deezer.com\/listen-6816847",
+                        "duration":"292",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816848",
+                        "name":"Love The Way You Lie",
+                        "url":"http:\/\/www.deezer.com\/listen-6816848",
+                        "duration":"263",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816849",
+                        "name":"You\u2019re Never Over",
+                        "url":"http:\/\/www.deezer.com\/listen-6816849",
+                        "duration":"305",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"6816850",
+                        "name":"Untitled",
+                        "url":"http:\/\/www.deezer.com\/listen-6816850",
+                        "duration":"194",
+                        "rank":"0"
+                     }
+                  ]
+               }
+            },
+            {
+               "id":"467372",
+               "name":"Relapse: Refill (2009)",
+               "url":"http:\/\/www.deezer.com\/en\/music\/eminem\/relapse-refill-2009-467372",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/cover\/8667dea7e64f8884d64d02301ae49292\/150x150-000000-80-0-0.jpg",
+               "nb_tracks":"29",
+               "nb_disks":"2",
+               "year":"2009",
+               "tracks":{
+                  "track":[
+                     {
+                        "id":"5094910",
+                        "name":"Dr. West",
+                        "url":"http:\/\/www.deezer.com\/listen-5094910",
+                        "duration":"90",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094911",
+                        "name":"3 a.m.",
+                        "url":"http:\/\/www.deezer.com\/listen-5094911",
+                        "duration":"320",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094912",
+                        "name":"My Mom",
+                        "url":"http:\/\/www.deezer.com\/listen-5094912",
+                        "duration":"320",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094913",
+                        "name":"Insane",
+                        "url":"http:\/\/www.deezer.com\/listen-5094913",
+                        "duration":"181",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"5094914",
+                        "name":"Bagpipes From Baghdad",
+                        "url":"http:\/\/www.deezer.com\/listen-5094914",
+                        "duration":"283",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"5094915",
+                        "name":"Hello",
+                        "url":"http:\/\/www.deezer.com\/listen-5094915",
+                        "duration":"248",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"5094916",
+                        "name":"Tonya",
+                        "url":"http:\/\/www.deezer.com\/listen-5094916",
+                        "duration":"42",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094917",
+                        "name":"Same Song & Dance",
+                        "url":"http:\/\/www.deezer.com\/listen-5094917",
+                        "duration":"247",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094918",
+                        "name":"We Made You",
+                        "url":"http:\/\/www.deezer.com\/listen-5094918",
+                        "duration":"270",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094919",
+                        "name":"Medicine Ball",
+                        "url":"http:\/\/www.deezer.com\/listen-5094919",
+                        "duration":"237",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094920",
+                        "name":"Paul",
+                        "url":"http:\/\/www.deezer.com\/listen-5094920",
+                        "duration":"19",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094921",
+                        "name":"Stay Wide Awake",
+                        "url":"http:\/\/www.deezer.com\/listen-5094921",
+                        "duration":"320",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094922",
+                        "name":"Old Time's Sake",
+                        "url":"http:\/\/www.deezer.com\/listen-5094922",
+                        "duration":"278",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094923",
+                        "name":"Must Be The Ganja",
+                        "url":"http:\/\/www.deezer.com\/listen-5094923",
+                        "duration":"243",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094924",
+                        "name":"Mr. Mathers",
+                        "url":"http:\/\/www.deezer.com\/listen-5094924",
+                        "duration":"42",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"5094925",
+                        "name":"Deja Vu",
+                        "url":"http:\/\/www.deezer.com\/listen-5094925",
+                        "duration":"284",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094926",
+                        "name":"Beautiful",
+                        "url":"http:\/\/www.deezer.com\/listen-5094926",
+                        "duration":"393",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094927",
+                        "name":"Crack A Bottle",
+                        "url":"http:\/\/www.deezer.com\/listen-5094927",
+                        "duration":"298",
+                        "rank":"73860"
+                     },
+                     {
+                        "id":"5094928",
+                        "name":"Steve Berman",
+                        "url":"http:\/\/www.deezer.com\/listen-5094928",
+                        "duration":"89",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"5094929",
+                        "name":"Underground",
+                        "url":"http:\/\/www.deezer.com\/listen-5094929",
+                        "duration":"371",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"5094930",
+                        "name":"Forever",
+                        "url":"http:\/\/www.deezer.com\/listen-5094930",
+                        "duration":"358",
+                        "rank":"10325"
+                     },
+                     {
+                        "id":"5094931",
+                        "name":"Hell Breaks Loose",
+                        "url":"http:\/\/www.deezer.com\/listen-5094931",
+                        "duration":"244",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094932",
+                        "name":"Buffalo Bill",
+                        "url":"http:\/\/www.deezer.com\/listen-5094932",
+                        "duration":"237",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094933",
+                        "name":"Elevator",
+                        "url":"http:\/\/www.deezer.com\/listen-5094933",
+                        "duration":"293",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094934",
+                        "name":"Taking My Ball",
+                        "url":"http:\/\/www.deezer.com\/listen-5094934",
+                        "duration":"303",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094935",
+                        "name":"Music Box",
+                        "url":"http:\/\/www.deezer.com\/listen-5094935",
+                        "duration":"305",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094936",
+                        "name":"Drop The Bomb On 'Em",
+                        "url":"http:\/\/www.deezer.com\/listen-5094936",
+                        "duration":"287",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094937",
+                        "name":"My Darling",
+                        "url":"http:\/\/www.deezer.com\/listen-5094937",
+                        "duration":"320",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5094938",
+                        "name":"Careful What You Wish For",
+                        "url":"http:\/\/www.deezer.com\/listen-5094938",
+                        "duration":"227",
+                        "rank":"0"
+                     }
+                  ]
+               }
+            },
+            {
+               "id":"669278",
+               "name":"Relapse (2009)",
+               "url":"http:\/\/www.deezer.com\/en\/music\/eminem\/relapse-2009-669278",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/cover\/3d3fbd6888c5d5143642e0e81d4342f6\/150x150-000000-80-0-0.jpg",
+               "nb_tracks":"22",
+               "nb_disks":"1",
+               "year":"2009",
+               "tracks":{
+                  "track":[
+                     {
+                        "id":"7256094",
+                        "name":"Dr. West",
+                        "url":"http:\/\/www.deezer.com\/listen-7256094",
+                        "duration":"90",
+                        "rank":"300009"
+                     },
+                     {
+                        "id":"7256095",
+                        "name":"3 a.m.",
+                        "url":"http:\/\/www.deezer.com\/listen-7256095",
+                        "duration":"320",
+                        "rank":"328172"
+                     },
+                     {
+                        "id":"7256096",
+                        "name":"My Mom",
+                        "url":"http:\/\/www.deezer.com\/listen-7256096",
+                        "duration":"320",
+                        "rank":"334031"
+                     },
+                     {
+                        "id":"7256097",
+                        "name":"Insane",
+                        "url":"http:\/\/www.deezer.com\/listen-7256097",
+                        "duration":"181",
+                        "rank":"316506"
+                     },
+                     {
+                        "id":"7256098",
+                        "name":"Bagpipes From Baghdad",
+                        "url":"http:\/\/www.deezer.com\/listen-7256098",
+                        "duration":"283",
+                        "rank":"334646"
+                     },
+                     {
+                        "id":"7256099",
+                        "name":"Hello",
+                        "url":"http:\/\/www.deezer.com\/listen-7256099",
+                        "duration":"248",
+                        "rank":"334645"
+                     },
+                     {
+                        "id":"7256100",
+                        "name":"Tonya",
+                        "url":"http:\/\/www.deezer.com\/listen-7256100",
+                        "duration":"42",
+                        "rank":"291352"
+                     },
+                     {
+                        "id":"7256101",
+                        "name":"Same Song & Dance",
+                        "url":"http:\/\/www.deezer.com\/listen-7256101",
+                        "duration":"247",
+                        "rank":"315749"
+                     },
+                     {
+                        "id":"7256102",
+                        "name":"We Made You",
+                        "url":"http:\/\/www.deezer.com\/listen-7256102",
+                        "duration":"270",
+                        "rank":"377971"
+                     },
+                     {
+                        "id":"7256103",
+                        "name":"Medicine Ball",
+                        "url":"http:\/\/www.deezer.com\/listen-7256103",
+                        "duration":"237",
+                        "rank":"308295"
+                     },
+                     {
+                        "id":"7256104",
+                        "name":"Paul",
+                        "url":"http:\/\/www.deezer.com\/listen-7256104",
+                        "duration":"19",
+                        "rank":"88768"
+                     },
+                     {
+                        "id":"7256105",
+                        "name":"Stay Wide Awake",
+                        "url":"http:\/\/www.deezer.com\/listen-7256105",
+                        "duration":"320",
+                        "rank":"281777"
+                     },
+                     {
+                        "id":"7256106",
+                        "name":"Old Time's Sake",
+                        "url":"http:\/\/www.deezer.com\/listen-7256106",
+                        "duration":"278",
+                        "rank":"281776"
+                     },
+                     {
+                        "id":"7256107",
+                        "name":"Must Be The Ganja",
+                        "url":"http:\/\/www.deezer.com\/listen-7256107",
+                        "duration":"243",
+                        "rank":"254751"
+                     },
+                     {
+                        "id":"7256108",
+                        "name":"Mr. Mathers",
+                        "url":"http:\/\/www.deezer.com\/listen-7256108",
+                        "duration":"42",
+                        "rank":"193873"
+                     },
+                     {
+                        "id":"7256109",
+                        "name":"Deja Vu",
+                        "url":"http:\/\/www.deezer.com\/listen-7256109",
+                        "duration":"284",
+                        "rank":"253279"
+                     },
+                     {
+                        "id":"7256110",
+                        "name":"Beautiful",
+                        "url":"http:\/\/www.deezer.com\/listen-7256110",
+                        "duration":"393",
+                        "rank":"307411"
+                     },
+                     {
+                        "id":"7256111",
+                        "name":"Crack A Bottle",
+                        "url":"http:\/\/www.deezer.com\/listen-7256111",
+                        "duration":"298",
+                        "rank":"329532"
+                     },
+                     {
+                        "id":"7256112",
+                        "name":"Steve Berman",
+                        "url":"http:\/\/www.deezer.com\/listen-7256112",
+                        "duration":"89",
+                        "rank":"223684"
+                     },
+                     {
+                        "id":"7256113",
+                        "name":"Underground",
+                        "url":"http:\/\/www.deezer.com\/listen-7256113",
+                        "duration":"371",
+                        "rank":"233409"
+                     },
+                     {
+                        "id":"7256114",
+                        "name":"We Made You",
+                        "url":"http:\/\/www.deezer.com\/listen-7256114",
+                        "duration":"287",
+                        "rank":"247255"
+                     },
+                     {
+                        "id":"7256115",
+                        "name":"Crack A Bottle",
+                        "url":"http:\/\/www.deezer.com\/listen-7256115",
+                        "duration":"316",
+                        "rank":"312525"
+                     }
+                  ]
+               }
+            },
+            {
+               "id":"161523",
+               "name":"Eminem Presents The Re-Up (2006)",
+               "url":"http:\/\/www.deezer.com\/en\/music\/eminem\/eminem-presents-the-re-up-2006-161523",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/cover\/90b0b4820d5483d707132b79605d870b\/150x150-000000-80-0-0.jpg",
+               "nb_tracks":"23",
+               "nb_disks":"1",
+               "year":"2009",
+               "tracks":{
+                  "track":[
+                     {
+                        "id":"1575461",
+                        "name":"Shady Narcotics",
+                        "url":"http:\/\/www.deezer.com\/listen-1575461",
+                        "duration":"56",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"1575463",
+                        "name":"We're Back",
+                        "url":"http:\/\/www.deezer.com\/listen-1575463",
+                        "duration":"240",
+                        "rank":"31709"
+                     },
+                     {
+                        "id":"1575465",
+                        "name":"Pistol Pistol (Remix)",
+                        "url":"http:\/\/www.deezer.com\/listen-1575465",
+                        "duration":"146",
+                        "rank":"71025"
+                     },
+                     {
+                        "id":"1575467",
+                        "name":"Murder",
+                        "url":"http:\/\/www.deezer.com\/listen-1575467",
+                        "duration":"131",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"1575469",
+                        "name":"Everything Is Shady",
+                        "url":"http:\/\/www.deezer.com\/listen-1575469",
+                        "duration":"269",
+                        "rank":"70816"
+                     },
+                     {
+                        "id":"1575471",
+                        "name":"The Re-Up",
+                        "url":"http:\/\/www.deezer.com\/listen-1575471",
+                        "duration":"178",
+                        "rank":"63503"
+                     },
+                     {
+                        "id":"1575472",
+                        "name":"You Don't Know",
+                        "url":"http:\/\/www.deezer.com\/listen-1575472",
+                        "duration":"258",
+                        "rank":"93121"
+                     },
+                     {
+                        "id":"1575473",
+                        "name":"Jimmy Crack Corn",
+                        "url":"http:\/\/www.deezer.com\/listen-1575473",
+                        "duration":"234",
+                        "rank":"80586"
+                     },
+                     {
+                        "id":"1575474",
+                        "name":"Trapped",
+                        "url":"http:\/\/www.deezer.com\/listen-1575474",
+                        "duration":"58",
+                        "rank":"91021"
+                     },
+                     {
+                        "id":"1575475",
+                        "name":"Whatever You Want",
+                        "url":"http:\/\/www.deezer.com\/listen-1575475",
+                        "duration":"169",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"1575477",
+                        "name":"Talkin' All That",
+                        "url":"http:\/\/www.deezer.com\/listen-1575477",
+                        "duration":"245",
+                        "rank":"71025"
+                     },
+                     {
+                        "id":"1575479",
+                        "name":"By My Side",
+                        "url":"http:\/\/www.deezer.com\/listen-1575479",
+                        "duration":"247",
+                        "rank":"76372"
+                     },
+                     {
+                        "id":"1575481",
+                        "name":"We Ride For Shady",
+                        "url":"http:\/\/www.deezer.com\/listen-1575481",
+                        "duration":"188",
+                        "rank":"3"
+                     },
+                     {
+                        "id":"1575483",
+                        "name":"There He Is",
+                        "url":"http:\/\/www.deezer.com\/listen-1575483",
+                        "duration":"265",
+                        "rank":"97925"
+                     },
+                     {
+                        "id":"1575484",
+                        "name":"Tryin' Ta Win",
+                        "url":"http:\/\/www.deezer.com\/listen-1575484",
+                        "duration":"233",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"1575487",
+                        "name":"Smack That (Remix)",
+                        "url":"http:\/\/www.deezer.com\/listen-1575487",
+                        "duration":"312",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"1575488",
+                        "name":"Public Enemy #1",
+                        "url":"http:\/\/www.deezer.com\/listen-1575488",
+                        "duration":"115",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"1575490",
+                        "name":"Get Low",
+                        "url":"http:\/\/www.deezer.com\/listen-1575490",
+                        "duration":"200",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"1575492",
+                        "name":"Ski Mask Way (Eminem Remix)",
+                        "url":"http:\/\/www.deezer.com\/listen-1575492",
+                        "duration":"184",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"1575493",
+                        "name":"Shake That (Remix)",
+                        "url":"http:\/\/www.deezer.com\/listen-1575493",
+                        "duration":"180",
+                        "rank":"82843"
+                     },
+                     {
+                        "id":"1575495",
+                        "name":"Cry Now (Shady Remix)",
+                        "url":"http:\/\/www.deezer.com\/listen-1575495",
+                        "duration":"310",
+                        "rank":"31419"
+                     },
+                     {
+                        "id":"1575496",
+                        "name":"No Apologies",
+                        "url":"http:\/\/www.deezer.com\/listen-1575496",
+                        "duration":"259",
+                        "rank":"10"
+                     },
+                     {
+                        "id":"1575497",
+                        "name":"Billion Bucks",
+                        "url":"http:\/\/www.deezer.com\/listen-1575497",
+                        "duration":"221",
+                        "rank":"10"
+                     }
+                  ]
+               }
+            },
+            {
+               "id":"224581",
+               "name":"Curtain Call (2005)",
+               "url":"http:\/\/www.deezer.com\/en\/music\/eminem\/curtain-call-2005-224581",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/cover\/2df8af05df1f68ff296e55e6151c1f9f\/150x150-000000-80-0-0.jpg",
+               "nb_tracks":"24",
+               "nb_disks":"2",
+               "year":"2008",
+               "tracks":{
+                  "track":[
+                     {
+                        "id":"2248416",
+                        "name":"Intro",
+                        "url":"http:\/\/www.deezer.com\/listen-2248416",
+                        "duration":"36",
+                        "rank":"462663"
+                     },
+                     {
+                        "id":"2248417",
+                        "name":"FACK",
+                        "url":"http:\/\/www.deezer.com\/listen-2248417",
+                        "duration":"206",
+                        "rank":"536113"
+                     },
+                     {
+                        "id":"2248419",
+                        "name":"The Way I Am",
+                        "url":"http:\/\/www.deezer.com\/listen-2248419",
+                        "duration":"291",
+                        "rank":"574702"
+                     },
+                     {
+                        "id":"2248420",
+                        "name":"My Name Is",
+                        "url":"http:\/\/www.deezer.com\/listen-2248420",
+                        "duration":"269",
+                        "rank":"591741"
+                     },
+                     {
+                        "id":"2248421",
+                        "name":"Stan",
+                        "url":"http:\/\/www.deezer.com\/listen-2248421",
+                        "duration":"404",
+                        "rank":"600867"
+                     },
+                     {
+                        "id":"2248423",
+                        "name":"Lose Yourself",
+                        "url":"http:\/\/www.deezer.com\/listen-2248423",
+                        "duration":"326",
+                        "rank":"670425"
+                     },
+                     {
+                        "id":"2248424",
+                        "name":"Shake That",
+                        "url":"http:\/\/www.deezer.com\/listen-2248424",
+                        "duration":"274",
+                        "rank":"577821"
+                     },
+                     {
+                        "id":"2248426",
+                        "name":"Sing For The Moment",
+                        "url":"http:\/\/www.deezer.com\/listen-2248426",
+                        "duration":"340",
+                        "rank":"588039"
+                     },
+                     {
+                        "id":"2248427",
+                        "name":"Without Me",
+                        "url":"http:\/\/www.deezer.com\/listen-2248427",
+                        "duration":"291",
+                        "rank":"597708"
+                     },
+                     {
+                        "id":"2248429",
+                        "name":"Like Toy Soldiers",
+                        "url":"http:\/\/www.deezer.com\/listen-2248429",
+                        "duration":"296",
+                        "rank":"572172"
+                     },
+                     {
+                        "id":"2248430",
+                        "name":"The Real Slim Shady",
+                        "url":"http:\/\/www.deezer.com\/listen-2248430",
+                        "duration":"285",
+                        "rank":"544081"
+                     },
+                     {
+                        "id":"2248431",
+                        "name":"Mockingbird",
+                        "url":"http:\/\/www.deezer.com\/listen-2248431",
+                        "duration":"251",
+                        "rank":"539578"
+                     },
+                     {
+                        "id":"2248432",
+                        "name":"Guilty Conscience",
+                        "url":"http:\/\/www.deezer.com\/listen-2248432",
+                        "duration":"200",
+                        "rank":"488934"
+                     },
+                     {
+                        "id":"2248434",
+                        "name":"Cleanin' Out My Closet",
+                        "url":"http:\/\/www.deezer.com\/listen-2248434",
+                        "duration":"299",
+                        "rank":"498283"
+                     },
+                     {
+                        "id":"2248435",
+                        "name":"Just Lose It",
+                        "url":"http:\/\/www.deezer.com\/listen-2248435",
+                        "duration":"249",
+                        "rank":"495792"
+                     },
+                     {
+                        "id":"2248436",
+                        "name":"When I'm Gone",
+                        "url":"http:\/\/www.deezer.com\/listen-2248436",
+                        "duration":"281",
+                        "rank":"501383"
+                     },
+                     {
+                        "id":"2248437",
+                        "name":"Stan",
+                        "url":"http:\/\/www.deezer.com\/listen-2248437",
+                        "duration":"380",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"4674799",
+                        "name":"Dead Wrong",
+                        "url":"http:\/\/www.deezer.com\/listen-4674799",
+                        "duration":"299",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"2248438",
+                        "name":"Role Model",
+                        "url":"http:\/\/www.deezer.com\/listen-2248438",
+                        "duration":"207",
+                        "rank":"503255"
+                     },
+                     {
+                        "id":"2248439",
+                        "name":"Kill You",
+                        "url":"http:\/\/www.deezer.com\/listen-2248439",
+                        "duration":"266",
+                        "rank":"474904"
+                     },
+                     {
+                        "id":"2248441",
+                        "name":"Shit On You",
+                        "url":"http:\/\/www.deezer.com\/listen-2248441",
+                        "duration":"330",
+                        "rank":"482707"
+                     },
+                     {
+                        "id":"2248443",
+                        "name":"Criminal",
+                        "url":"http:\/\/www.deezer.com\/listen-2248443",
+                        "duration":"315",
+                        "rank":"456879"
+                     },
+                     {
+                        "id":"2248445",
+                        "name":"Renegade",
+                        "url":"http:\/\/www.deezer.com\/listen-2248445",
+                        "duration":"337",
+                        "rank":"450278"
+                     },
+                     {
+                        "id":"2248446",
+                        "name":"Just Don't Give A Fuck",
+                        "url":"http:\/\/www.deezer.com\/listen-2248446",
+                        "duration":"243",
+                        "rank":"473349"
+                     }
+                  ]
+               }
+            },
+            {
+               "id":"430632",
+               "name":"Encore (2004)",
+               "url":"http:\/\/www.deezer.com\/en\/music\/eminem\/encore-2004-430632",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/cover\/c70c68f2f8aa376093774b931e04d018\/150x150-000000-80-0-0.jpg",
+               "nb_tracks":"23",
+               "nb_disks":"2",
+               "year":"2004",
+               "tracks":{
+                  "track":[
+                     {
+                        "id":"4677472",
+                        "name":"(Curtains Up - Encore version)",
+                        "url":"http:\/\/www.deezer.com\/listen-4677472",
+                        "duration":"49",
+                        "rank":"348993"
+                     },
+                     {
+                        "id":"4677473",
+                        "name":"Evil Deeds",
+                        "url":"http:\/\/www.deezer.com\/listen-4677473",
+                        "duration":"260",
+                        "rank":"396069"
+                     },
+                     {
+                        "id":"4677474",
+                        "name":"Never Enough",
+                        "url":"http:\/\/www.deezer.com\/listen-4677474",
+                        "duration":"160",
+                        "rank":"412761"
+                     },
+                     {
+                        "id":"4677475",
+                        "name":"Yellow Brick Road",
+                        "url":"http:\/\/www.deezer.com\/listen-4677475",
+                        "duration":"346",
+                        "rank":"375916"
+                     },
+                     {
+                        "id":"4677476",
+                        "name":"Like Toy Soldiers",
+                        "url":"http:\/\/www.deezer.com\/listen-4677476",
+                        "duration":"297",
+                        "rank":"386000"
+                     },
+                     {
+                        "id":"4677477",
+                        "name":"Mosh",
+                        "url":"http:\/\/www.deezer.com\/listen-4677477",
+                        "duration":"318",
+                        "rank":"383137"
+                     },
+                     {
+                        "id":"4677478",
+                        "name":"Puke",
+                        "url":"http:\/\/www.deezer.com\/listen-4677478",
+                        "duration":"248",
+                        "rank":"389338"
+                     },
+                     {
+                        "id":"4677479",
+                        "name":"My 1st Single",
+                        "url":"http:\/\/www.deezer.com\/listen-4677479",
+                        "duration":"303",
+                        "rank":"369357"
+                     },
+                     {
+                        "id":"4677480",
+                        "name":"Paul (skit)",
+                        "url":"http:\/\/www.deezer.com\/listen-4677480",
+                        "duration":"32",
+                        "rank":"256502"
+                     },
+                     {
+                        "id":"4677481",
+                        "name":"Rain Man",
+                        "url":"http:\/\/www.deezer.com\/listen-4677481",
+                        "duration":"314",
+                        "rank":"385749"
+                     },
+                     {
+                        "id":"4677482",
+                        "name":"Big Weenie",
+                        "url":"http:\/\/www.deezer.com\/listen-4677482",
+                        "duration":"267",
+                        "rank":"351885"
+                     },
+                     {
+                        "id":"4677483",
+                        "name":"Em Calls Paul (skit)",
+                        "url":"http:\/\/www.deezer.com\/listen-4677483",
+                        "duration":"72",
+                        "rank":"312648"
+                     },
+                     {
+                        "id":"4677484",
+                        "name":"Just Lose It",
+                        "url":"http:\/\/www.deezer.com\/listen-4677484",
+                        "duration":"249",
+                        "rank":"376531"
+                     },
+                     {
+                        "id":"4677485",
+                        "name":"Ass Like That",
+                        "url":"http:\/\/www.deezer.com\/listen-4677485",
+                        "duration":"265",
+                        "rank":"379219"
+                     },
+                     {
+                        "id":"4677486",
+                        "name":"Spend Some Time",
+                        "url":"http:\/\/www.deezer.com\/listen-4677486",
+                        "duration":"311",
+                        "rank":"349972"
+                     },
+                     {
+                        "id":"4677487",
+                        "name":"Mockingbird",
+                        "url":"http:\/\/www.deezer.com\/listen-4677487",
+                        "duration":"251",
+                        "rank":"366813"
+                     },
+                     {
+                        "id":"4677488",
+                        "name":"Crazy In Love",
+                        "url":"http:\/\/www.deezer.com\/listen-4677488",
+                        "duration":"242",
+                        "rank":"360700"
+                     },
+                     {
+                        "id":"4677489",
+                        "name":"One Shot 2 Shot",
+                        "url":"http:\/\/www.deezer.com\/listen-4677489",
+                        "duration":"267",
+                        "rank":"336516"
+                     },
+                     {
+                        "id":"4677490",
+                        "name":"Final Thought (skit)",
+                        "url":"http:\/\/www.deezer.com\/listen-4677490",
+                        "duration":"30",
+                        "rank":"122190"
+                     },
+                     {
+                        "id":"4677491",
+                        "name":"Encore\/Curtains Down",
+                        "url":"http:\/\/www.deezer.com\/listen-4677491",
+                        "duration":"348",
+                        "rank":"342776"
+                     },
+                     {
+                        "id":"4677492",
+                        "name":"We As Americans",
+                        "url":"http:\/\/www.deezer.com\/listen-4677492",
+                        "duration":"278",
+                        "rank":"340558"
+                     },
+                     {
+                        "id":"4677493",
+                        "name":"Love You More",
+                        "url":"http:\/\/www.deezer.com\/listen-4677493",
+                        "duration":"287",
+                        "rank":"378025"
+                     },
+                     {
+                        "id":"4677494",
+                        "name":"Ricky Ticky Toc",
+                        "url":"http:\/\/www.deezer.com\/listen-4677494",
+                        "duration":"173",
+                        "rank":"328961"
+                     }
+                  ]
+               }
+            },
+            {
+               "id":"259343",
+               "name":"Intl Singles Box Set (2003)",
+               "url":"http:\/\/www.deezer.com\/en\/music\/eminem\/intl-singles-box-set-2003-259343",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/cover\/5c77fa2596e98aba37942948d9e37ed9\/150x150-000000-80-0-0.jpg",
+               "nb_tracks":"35",
+               "nb_disks":"11",
+               "year":"2009",
+               "tracks":{
+                  "track":[
+                     {
+                        "id":"2675396",
+                        "name":"Business",
+                        "url":"http:\/\/www.deezer.com\/listen-2675396",
+                        "duration":"254",
+                        "rank":"303281"
+                     },
+                     {
+                        "id":"2675397",
+                        "name":"Bump Heads",
+                        "url":"http:\/\/www.deezer.com\/listen-2675397",
+                        "duration":"283",
+                        "rank":"267571"
+                     },
+                     {
+                        "id":"2675398",
+                        "name":"Business",
+                        "url":"http:\/\/www.deezer.com\/listen-2675398",
+                        "duration":"259",
+                        "rank":"230546"
+                     },
+                     {
+                        "id":"2675399",
+                        "name":"Sing For The Moment",
+                        "url":"http:\/\/www.deezer.com\/listen-2675399",
+                        "duration":"343",
+                        "rank":"327158"
+                     },
+                     {
+                        "id":"2675400",
+                        "name":"Rabbit Run",
+                        "url":"http:\/\/www.deezer.com\/listen-2675400",
+                        "duration":"385",
+                        "rank":"279068"
+                     },
+                     {
+                        "id":"2675401",
+                        "name":"Sing For The Moment",
+                        "url":"http:\/\/www.deezer.com\/listen-2675401",
+                        "duration":"194",
+                        "rank":"239686"
+                     },
+                     {
+                        "id":"2675402",
+                        "name":"Lose Yourself",
+                        "url":"http:\/\/www.deezer.com\/listen-2675402",
+                        "duration":"329",
+                        "rank":"394387"
+                     },
+                     {
+                        "id":"2675403",
+                        "name":"Lose Yourself",
+                        "url":"http:\/\/www.deezer.com\/listen-2675403",
+                        "duration":"327",
+                        "rank":"570450"
+                     },
+                     {
+                        "id":"2675404",
+                        "name":"Renegade",
+                        "url":"http:\/\/www.deezer.com\/listen-2675404",
+                        "duration":"339",
+                        "rank":"226733"
+                     },
+                     {
+                        "id":"2675405",
+                        "name":"Cleanin' Out My Closet",
+                        "url":"http:\/\/www.deezer.com\/listen-2675405",
+                        "duration":"303",
+                        "rank":"285260"
+                     },
+                     {
+                        "id":"2675406",
+                        "name":"Stimulate",
+                        "url":"http:\/\/www.deezer.com\/listen-2675406",
+                        "duration":"306",
+                        "rank":"186963"
+                     },
+                     {
+                        "id":"2675407",
+                        "name":"Cleanin' Out My Closet",
+                        "url":"http:\/\/www.deezer.com\/listen-2675407",
+                        "duration":"346",
+                        "rank":"172912"
+                     },
+                     {
+                        "id":"2675408",
+                        "name":"Without Me",
+                        "url":"http:\/\/www.deezer.com\/listen-2675408",
+                        "duration":"295",
+                        "rank":"388919"
+                     },
+                     {
+                        "id":"2675409",
+                        "name":"The Way I Am",
+                        "url":"http:\/\/www.deezer.com\/listen-2675409",
+                        "duration":"294",
+                        "rank":"189597"
+                     },
+                     {
+                        "id":"2675410",
+                        "name":"Without Me",
+                        "url":"http:\/\/www.deezer.com\/listen-2675410",
+                        "duration":"254",
+                        "rank":"149094"
+                     },
+                     {
+                        "id":"2675411",
+                        "name":"Without Me",
+                        "url":"http:\/\/www.deezer.com\/listen-2675411",
+                        "duration":"290",
+                        "rank":"151757"
+                     },
+                     {
+                        "id":"2675412",
+                        "name":"Stan",
+                        "url":"http:\/\/www.deezer.com\/listen-2675412",
+                        "duration":"332",
+                        "rank":"472030"
+                     },
+                     {
+                        "id":"2675413",
+                        "name":"Guilty Conscience",
+                        "url":"http:\/\/www.deezer.com\/listen-2675413",
+                        "duration":"200",
+                        "rank":"178076"
+                     },
+                     {
+                        "id":"2675414",
+                        "name":"Hazardous Youth",
+                        "url":"http:\/\/www.deezer.com\/listen-2675414",
+                        "duration":"45",
+                        "rank":"119258"
+                     },
+                     {
+                        "id":"2675415",
+                        "name":"Get You Mad",
+                        "url":"http:\/\/www.deezer.com\/listen-2675415",
+                        "duration":"262",
+                        "rank":"163364"
+                     },
+                     {
+                        "id":"2675416",
+                        "name":"The Way I Am",
+                        "url":"http:\/\/www.deezer.com\/listen-2675416",
+                        "duration":"291",
+                        "rank":"267570"
+                     },
+                     {
+                        "id":"2675417",
+                        "name":"Kids",
+                        "url":"http:\/\/www.deezer.com\/listen-2675417",
+                        "duration":"305",
+                        "rank":"222601"
+                     },
+                     {
+                        "id":"2675418",
+                        "name":"'97 Bonnie & Clyde",
+                        "url":"http:\/\/www.deezer.com\/listen-2675418",
+                        "duration":"317",
+                        "rank":"119258"
+                     },
+                     {
+                        "id":"2675419",
+                        "name":"Steve Berman",
+                        "url":"http:\/\/www.deezer.com\/listen-2675419",
+                        "duration":"56",
+                        "rank":"97367"
+                     },
+                     {
+                        "id":"2675420",
+                        "name":"The Real Slim Shady",
+                        "url":"http:\/\/www.deezer.com\/listen-2675420",
+                        "duration":"285",
+                        "rank":"324402"
+                     },
+                     {
+                        "id":"2675421",
+                        "name":"Bad Influence",
+                        "url":"http:\/\/www.deezer.com\/listen-2675421",
+                        "duration":"219",
+                        "rank":"179656"
+                     },
+                     {
+                        "id":"2675422",
+                        "name":"The Real Slim Shady",
+                        "url":"http:\/\/www.deezer.com\/listen-2675422",
+                        "duration":"285",
+                        "rank":"110565"
+                     },
+                     {
+                        "id":"2675423",
+                        "name":"My Fault",
+                        "url":"http:\/\/www.deezer.com\/listen-2675423",
+                        "duration":"240",
+                        "rank":"99470"
+                     },
+                     {
+                        "id":"2675424",
+                        "name":"Guilty Conscience",
+                        "url":"http:\/\/www.deezer.com\/listen-2675424",
+                        "duration":"203",
+                        "rank":"123300"
+                     },
+                     {
+                        "id":"2675425",
+                        "name":"Guilty Conscience",
+                        "url":"http:\/\/www.deezer.com\/listen-2675425",
+                        "duration":"201",
+                        "rank":"130699"
+                     },
+                     {
+                        "id":"2675426",
+                        "name":"Guilty Conscience",
+                        "url":"http:\/\/www.deezer.com\/listen-2675426",
+                        "duration":"199",
+                        "rank":"89597"
+                     },
+                     {
+                        "id":"2675427",
+                        "name":"My Name Is",
+                        "url":"http:\/\/www.deezer.com\/listen-2675427",
+                        "duration":"272",
+                        "rank":"305154"
+                     },
+                     {
+                        "id":"2675428",
+                        "name":"My Name Is",
+                        "url":"http:\/\/www.deezer.com\/listen-2675428",
+                        "duration":"269",
+                        "rank":"92422"
+                     },
+                     {
+                        "id":"2675429",
+                        "name":"My Name Is",
+                        "url":"http:\/\/www.deezer.com\/listen-2675429",
+                        "duration":"270",
+                        "rank":"91099"
+                     },
+                     {
+                        "id":"2675430",
+                        "name":"Wanksta",
+                        "url":"http:\/\/www.deezer.com\/listen-2675430",
+                        "duration":"173",
+                        "rank":"209512"
+                     }
+                  ]
+               }
+            },
+            {
+               "id":"702145",
+               "name":"Oyun Senin (2003)",
+               "url":"http:\/\/www.deezer.com\/en\/music\/eminem\/oyun-senin-2003-702145",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/cover\/20f0f4be1f341a5331c12a07cf437f3e\/150x150-000000-80-0-0.jpg",
+               "nb_tracks":"11",
+               "nb_disks":"1",
+               "year":"2003",
+               "tracks":{
+                  "track":[
+                     {
+                        "id":"7613416",
+                        "name":"\u00c7\u00f6p\u00e7\u00fcler",
+                        "url":"http:\/\/www.deezer.com\/listen-7613416",
+                        "duration":"245",
+                        "rank":"196094"
+                     },
+                     {
+                        "id":"7613417",
+                        "name":"Oyun Senin",
+                        "url":"http:\/\/www.deezer.com\/listen-7613417",
+                        "duration":"275",
+                        "rank":"92998"
+                     },
+                     {
+                        "id":"7613418",
+                        "name":"Kara G\u00f6zlerindeyim",
+                        "url":"http:\/\/www.deezer.com\/listen-7613418",
+                        "duration":"261",
+                        "rank":"79233"
+                     },
+                     {
+                        "id":"7613419",
+                        "name":"Evire \u00c7evire",
+                        "url":"http:\/\/www.deezer.com\/listen-7613419",
+                        "duration":"245",
+                        "rank":"95162"
+                     },
+                     {
+                        "id":"7613420",
+                        "name":"Yolu Yok",
+                        "url":"http:\/\/www.deezer.com\/listen-7613420",
+                        "duration":"250",
+                        "rank":"82260"
+                     },
+                     {
+                        "id":"7613421",
+                        "name":"Erke\u011fimsin",
+                        "url":"http:\/\/www.deezer.com\/listen-7613421",
+                        "duration":"200",
+                        "rank":"75523"
+                     },
+                     {
+                        "id":"7613422",
+                        "name":"Evlenmeden Olmaz",
+                        "url":"http:\/\/www.deezer.com\/listen-7613422",
+                        "duration":"300",
+                        "rank":"84766"
+                     },
+                     {
+                        "id":"7613423",
+                        "name":"A\u011flama Annem",
+                        "url":"http:\/\/www.deezer.com\/listen-7613423",
+                        "duration":"329",
+                        "rank":"64314"
+                     },
+                     {
+                        "id":"7613424",
+                        "name":"Yaz Tahtaya",
+                        "url":"http:\/\/www.deezer.com\/listen-7613424",
+                        "duration":"264",
+                        "rank":"75523"
+                     },
+                     {
+                        "id":"7613425",
+                        "name":"Al Eline Saz Gibi",
+                        "url":"http:\/\/www.deezer.com\/listen-7613425",
+                        "duration":"330",
+                        "rank":"55011"
+                     },
+                     {
+                        "id":"7613426",
+                        "name":"Git",
+                        "url":"http:\/\/www.deezer.com\/listen-7613426",
+                        "duration":"258",
+                        "rank":"55010"
+                     }
+                  ]
+               }
+            },
+            {
+               "id":"103248",
+               "name":"The Eminem Show (2002)",
+               "url":"http:\/\/www.deezer.com\/en\/music\/eminem\/the-eminem-show-2002-103248",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/cover\/ec3c8ed67427064c70f67e5815b74cef\/150x150-000000-80-0-0.jpg",
+               "nb_tracks":"20",
+               "nb_disks":"1",
+               "year":"2007",
+               "tracks":{
+                  "track":[
+                     {
+                        "id":"916409",
+                        "name":"Curtains Up",
+                        "url":"http:\/\/www.deezer.com\/listen-916409",
+                        "duration":"30",
+                        "rank":"289277"
+                     },
+                     {
+                        "id":"916412",
+                        "name":"White America",
+                        "url":"http:\/\/www.deezer.com\/listen-916412",
+                        "duration":"325",
+                        "rank":"717518"
+                     },
+                     {
+                        "id":"916413",
+                        "name":"Business",
+                        "url":"http:\/\/www.deezer.com\/listen-916413",
+                        "duration":"252",
+                        "rank":"675239"
+                     },
+                     {
+                        "id":"916414",
+                        "name":"Cleanin' Out My Closet",
+                        "url":"http:\/\/www.deezer.com\/listen-916414",
+                        "duration":"298",
+                        "rank":"782482"
+                     },
+                     {
+                        "id":"916416",
+                        "name":"Square Dance",
+                        "url":"http:\/\/www.deezer.com\/listen-916416",
+                        "duration":"324",
+                        "rank":"650477"
+                     },
+                     {
+                        "id":"916418",
+                        "name":"The Kiss",
+                        "url":"http:\/\/www.deezer.com\/listen-916418",
+                        "duration":"76",
+                        "rank":"569399"
+                     },
+                     {
+                        "id":"916419",
+                        "name":"Soldier",
+                        "url":"http:\/\/www.deezer.com\/listen-916419",
+                        "duration":"226",
+                        "rank":"644536"
+                     },
+                     {
+                        "id":"916420",
+                        "name":"Say Goodbye Hollywood",
+                        "url":"http:\/\/www.deezer.com\/listen-916420",
+                        "duration":"273",
+                        "rank":"642238"
+                     },
+                     {
+                        "id":"916422",
+                        "name":"Drips",
+                        "url":"http:\/\/www.deezer.com\/listen-916422",
+                        "duration":"286",
+                        "rank":"585903"
+                     },
+                     {
+                        "id":"916424",
+                        "name":"Without Me",
+                        "url":"http:\/\/www.deezer.com\/listen-916424",
+                        "duration":"290",
+                        "rank":"925133"
+                     },
+                     {
+                        "id":"916425",
+                        "name":"Paul Rosenberg",
+                        "url":"http:\/\/www.deezer.com\/listen-916425",
+                        "duration":"23",
+                        "rank":"254381"
+                     },
+                     {
+                        "id":"916426",
+                        "name":"Sing For The Moment",
+                        "url":"http:\/\/www.deezer.com\/listen-916426",
+                        "duration":"340",
+                        "rank":"829314"
+                     },
+                     {
+                        "id":"916427",
+                        "name":"Superman",
+                        "url":"http:\/\/www.deezer.com\/listen-916427",
+                        "duration":"350",
+                        "rank":"858589"
+                     },
+                     {
+                        "id":"916436",
+                        "name":"Hailie's Song",
+                        "url":"http:\/\/www.deezer.com\/listen-916436",
+                        "duration":"321",
+                        "rank":"738671"
+                     },
+                     {
+                        "id":"916437",
+                        "name":"Steve Berman",
+                        "url":"http:\/\/www.deezer.com\/listen-916437",
+                        "duration":"33",
+                        "rank":"503011"
+                     },
+                     {
+                        "id":"916442",
+                        "name":"When The Music Stops",
+                        "url":"http:\/\/www.deezer.com\/listen-916442",
+                        "duration":"269",
+                        "rank":"621437"
+                     },
+                     {
+                        "id":"916444",
+                        "name":"Say What You Say",
+                        "url":"http:\/\/www.deezer.com\/listen-916444",
+                        "duration":"310",
+                        "rank":"548949"
+                     },
+                     {
+                        "id":"916445",
+                        "name":"'Till I Collapse",
+                        "url":"http:\/\/www.deezer.com\/listen-916445",
+                        "duration":"298",
+                        "rank":"894996"
+                     },
+                     {
+                        "id":"916447",
+                        "name":"My Dad's Gone Crazy",
+                        "url":"http:\/\/www.deezer.com\/listen-916447",
+                        "duration":"267",
+                        "rank":"592887"
+                     },
+                     {
+                        "id":"916448",
+                        "name":"Curtains Close",
+                        "url":"http:\/\/www.deezer.com\/listen-916448",
+                        "duration":"61",
+                        "rank":"499030"
+                     }
+                  ]
+               }
+            },
+            {
+               "id":"463412",
+               "name":"The Eminem Show (Deluxe Ed.) (2002)",
+               "url":"http:\/\/www.deezer.com\/en\/music\/eminem\/the-eminem-show-deluxe-ed-2002-463412",
+               "image":"http:\/\/cdn-images.deezer.com\/images\/cover\/\/150x150-000000-80-0-0.jpg",
+               "nb_tracks":"20",
+               "nb_disks":"2",
+               "year":"2002",
+               "tracks":{
+                  "track":[
+                     {
+                        "id":"5058450",
+                        "name":"Curtains Up",
+                        "url":"http:\/\/www.deezer.com\/listen-5058450",
+                        "duration":"29",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058451",
+                        "name":"White America",
+                        "url":"http:\/\/www.deezer.com\/listen-5058451",
+                        "duration":"324",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058452",
+                        "name":"Business",
+                        "url":"http:\/\/www.deezer.com\/listen-5058452",
+                        "duration":"251",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058453",
+                        "name":"Cleanin' Out My Closet",
+                        "url":"http:\/\/www.deezer.com\/listen-5058453",
+                        "duration":"297",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058454",
+                        "name":"Square Dance",
+                        "url":"http:\/\/www.deezer.com\/listen-5058454",
+                        "duration":"323",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058455",
+                        "name":"The Kiss",
+                        "url":"http:\/\/www.deezer.com\/listen-5058455",
+                        "duration":"75",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058456",
+                        "name":"Soldier",
+                        "url":"http:\/\/www.deezer.com\/listen-5058456",
+                        "duration":"226",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058457",
+                        "name":"Say Goodbye Hollywood",
+                        "url":"http:\/\/www.deezer.com\/listen-5058457",
+                        "duration":"272",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058458",
+                        "name":"Drips",
+                        "url":"http:\/\/www.deezer.com\/listen-5058458",
+                        "duration":"285",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058459",
+                        "name":"Without Me",
+                        "url":"http:\/\/www.deezer.com\/listen-5058459",
+                        "duration":"290",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058460",
+                        "name":"Paul Rosenberg",
+                        "url":"http:\/\/www.deezer.com\/listen-5058460",
+                        "duration":"22",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058461",
+                        "name":"Sing For The Moment",
+                        "url":"http:\/\/www.deezer.com\/listen-5058461",
+                        "duration":"339",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058462",
+                        "name":"Superman",
+                        "url":"http:\/\/www.deezer.com\/listen-5058462",
+                        "duration":"350",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058463",
+                        "name":"Hailie's Song",
+                        "url":"http:\/\/www.deezer.com\/listen-5058463",
+                        "duration":"320",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058464",
+                        "name":"Steve Berman",
+                        "url":"http:\/\/www.deezer.com\/listen-5058464",
+                        "duration":"33",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058465",
+                        "name":"When The Music Stops",
+                        "url":"http:\/\/www.deezer.com\/listen-5058465",
+                        "duration":"269",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058466",
+                        "name":"Say What You Say",
+                        "url":"http:\/\/www.deezer.com\/listen-5058466",
+                        "duration":"309",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058467",
+                        "name":"'Till I Collapse",
+                        "url":"http:\/\/www.deezer.com\/listen-5058467",
+                        "duration":"297",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058468",
+                        "name":"My Dad's Gone Crazy",
+                        "url":"http:\/\/www.deezer.com\/listen-5058468",
+                        "duration":"267",
+                        "rank":"0"
+                     },
+                     {
+                        "id":"5058469",
+                        "name":"Curtains Close",
+                        "url":"http:\/\/www.deezer.com\/listen-5058469",
+                        "duration":"61",
+                        "rank":"0"
+                     }
+                  ]
+               }
+            }
+         ]
+      }
+   }
+}
