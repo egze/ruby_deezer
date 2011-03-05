@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{ruby_deezer}
-  s.version = "0.1.1"
+  s.version = "0.1.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Aleksandr Lossenko"]
@@ -28,6 +28,7 @@ Gem::Specification.new do |s|
     "lib/ruby_deezer/artist.rb",
     "lib/ruby_deezer/track.rb",
     "pkg/ruby_deezer-0.1.0.gem",
+    "pkg/ruby_deezer-0.1.1.gem",
     "ruby_deezer.gemspec",
     "test/fixtures/album.json",
     "test/fixtures/albums.json",
