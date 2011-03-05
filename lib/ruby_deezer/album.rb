@@ -31,7 +31,8 @@ module RubyDeezer
 
     def self.init_from_hash(hash)
       return nil unless hash.is_a?(Hash)
-      tracks = hash["tracks"] || []
+      tracks = hash["tracks"] || {}
+      tracks_array = tracks["track"] || []
       artist = hash["artist"] || {}
       Album.new.tap do |album|
         album.id = hash["id"].to_i
@@ -41,7 +42,7 @@ module RubyDeezer
         album.nb_tracks = hash["nb_tracks"].to_i
         album.nb_disks = hash["nb_disks"].to_i
         album.year = hash["year"].to_i
-        album.tracks = tracks.inject([]) {|arr, track| arr << Track.init_from_hash(track); arr}
+        album.tracks = tracks_array.inject([]) {|arr, track| arr << Track.init_from_hash(track); arr}
         album.artist = Artist.init_from_hash(artist)
       end
     end
