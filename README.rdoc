@@ -8,6 +8,8 @@ RubyDeezer is a ruby wrapper for the Deezer APIs ( http://www.deezer.com/en/#dev
 
 == Usage
 
+  require "ruby_deezer"
+
   RubyDeezer::Artist.find(13, ["similar_artists", "discography", "discography_details"]) # array option is optional
   RubyDeezer::Artist.search("eminem", {:per_page => 10, :page => 1}) # options can be skipped, default is 10 per page
   
