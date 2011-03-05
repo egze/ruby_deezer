@@ -10,8 +10,59 @@ RubyDeezer is a ruby wrapper for the Deezer APIs ( http://www.deezer.com/en/#dev
 
   require "ruby_deezer"
 
-  RubyDeezer::Artist.find(13, ["similar_artists", "discography", "discography_details"]) # array option is optional
-  RubyDeezer::Artist.search("eminem", {:per_page => 10, :page => 1}) # options can be skipped, default is 10 per page
+  artist = RubyDeezer::Artist.find(13, ["similar_artists", "discography", "discography_details"]) # array option is optional
+    
+    >> artist.name
+    "Eminem"
+    >> artist.url
+    "http://www.deezer.com/en/music/eminem"
+    >> artist.image
+    "http://cdn-images.deezer.com/images/artist/cb286a88a55a10847d1ac0f47798380c/90x90-000000-80-0-0.jpg"
+    >> artist.id
+    13
+    >> artist.similar_artists.map(&:name)
+    [
+        [0] "50 Cent",
+        [1] "Obie Trice",
+        [2] "Stat Quo",
+        [3] "Benzino",
+        [4] "Dr. Dre",
+        [5] "Proof",
+        [6] "2Pac",
+        [7] "Cashis",
+        [8] "Bizarre",
+        [9] "Xzibit"
+    ]
+    >> artist.albums.map(&:name)
+    [
+        [0] "Recovery (2010)",
+        [1] "Relapse: Refill (2009)",
+        [2] "Relapse (2009)",
+        [3] "Eminem Presents The Re-Up (2006)",
+        [4] "Curtain Call (2005)",
+        [5] "Encore (2004)",
+        [6] "Intl Singles Box Set (2003)",
+        [7] "Oyun Senin (2003)",
+        [8] "The Eminem Show (2002)",
+        [9] "The Eminem Show (Deluxe Ed.) (2002)"
+    ]
+    
+  artists = RubyDeezer::Artist.search("eminem", {:per_page => 10, :page => 1}) # options can be skipped, default is 10 per page
+  
+    >> artists.map(&:name)
+    [
+        [0] "Eminem",
+        [1] "Various Artists - Eminem Tribute",
+        [2] "Dr. Dre, 50 Cent, Eminem",
+        [3] "Xzibit Featuring Eminem & Nate Dogg",
+        [4] "Drake, Eminem, Kanye West, Lil Wayne",
+        [5] "Dr. Dre, Eminem, 50 Cent",
+        [6] "Eminem, Cashis, 50 Cent, Lloyd Banks",
+        [7] "Dmx, Obie Trice, Eminem",
+        [8] "Missy Elliott / Eminem",
+        [9] "Lil Wayne, Drake, Kanye West, Eminem"
+    ]
+    
   
   RubyDeezer::Album.find(13, ["tracks"]) # array option is optional
   RubyDeezer::Album.search("eminem", {:per_page => 10, :page => 1}) # options can be skipped, default is 10 per page
